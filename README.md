@@ -1,6 +1,6 @@
-- 🔭 I'm moving bricks at the construction site
+- 🔭 I'm moving bricks 🧱 at the construction site
 - 🌱 Open source fancier
-- 🏠 Homepage at Jancd.cn
+- 🏠 Homepage at [Jancd.cn](https://www.jancd.cn/)
 - 📫 sergeychang@gmail.com
 
 <!--
