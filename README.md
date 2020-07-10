@@ -1,4 +1,7 @@
-### Hi there 👋
+- 🔭 I'm moving bricks at the construction site
+- 🌱 Open source fancier
+- 🏠 Homepage at Jancd.cn
+- 📫 sergeychang@gmail.com
 
 <!--
 **Jancd/Jancd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
