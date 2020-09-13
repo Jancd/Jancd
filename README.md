@@ -3,19 +3,14 @@
 - 🏠 Homepage at [Jancd.cn](https://www.jancd.cn/)
 - 📫 sergeychang@gmail.com
 
-<!--
-**Jancd/Jancd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<img align="center" src="https://github.com/Jancd/Jancd/raw/master/developer.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
-[![Jancd's github stats](https://github-readme-stats.vercel.app/api?username=jancd&show_icons=true&theme=dark)](https://www.jancd.cn/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jancd&layout=compact)](https://www.jancd.cn/)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jancd&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancd&layout=compact" />
+
+</p>
