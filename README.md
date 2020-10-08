@@ -1,5 +1,4 @@
-<!-- - 🔭 I'm moving bricks 🧱 at the construction site
-- 🌱 Open source fancier
+<!-- - 🌱 Open source fancier
 - 🏠 Homepage at [Jancd.cn](https://www.jancd.cn/)
 - 📫 sergeychang@gmail.com -->
 
