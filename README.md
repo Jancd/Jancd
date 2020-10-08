@@ -7,7 +7,6 @@
 <img align="right" src="https://github.com/Jancd/Jancd/raw/master/developer.gif"/>
 
 <ul>
-    <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm moving bricks <g-emoji class="g-emoji" alias="bricks" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f1.png">🧱</g-emoji> at the construction site</li>
     <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Open source fancier</li>
     <li><g-emoji class="g-emoji" alias="house" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png">🏠</g-emoji> Homepage at <a href="https://www.jancd.cn/" rel="nofollow">Jancd.cn</a></li>
     <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> <a href="mailto:sergeychang@gmail.com">sergeychang@gmail.com</a></li>
