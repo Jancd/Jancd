@@ -1,7 +1,6 @@
 <!-- - 🌱 Open source fancier
 - 🏠 Homepage at [Jancd.cn](https://www.jancd.cn/)
 - 📫 sergeychang@gmail.com -->
-![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 
@@ -13,7 +12,9 @@
 
 <p align="center">
 
+![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancd&layout=compact" width="399"/>
 </p>
-
 </p>
