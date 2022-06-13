@@ -1,10 +1,9 @@
 <!-- - 🌱 Open source fancier
 - 🏠 Homepage at [Jancd.cn](https://www.jancd.cn/)
 - 📫 sergeychang@gmail.com -->
+![snake gif](https://raw.githubusercontent.com/akshaynarisetti/akshaynarisetti/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-
-<img align="right" src="https://github.com/Jancd/Jancd/raw/master/developer.gif"/>
 
 <ul>
     <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I'm Jancd,Chinese Pinyin name:zhāng shàn gàn,an open source fancier</li>
@@ -13,9 +12,8 @@
 </ul>
 
 <p align="center">
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jancd&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" width="468"/> -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancd&layout=compact" width="338"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancd&layout=compact" width="399"/>
 </p>
 
 </p>
