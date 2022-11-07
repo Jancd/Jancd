@@ -5,7 +5,7 @@
 <p align="center">
 
 <ul>
-    <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I'm Jancd,Chinese Pinyin name:zhāng shàn gàn,an open source fancier</li>
+    <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I'm Jancd, an open source fancier</li>
     <li><g-emoji class="g-emoji" alias="house" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e0.png">🏠</g-emoji> Homepage at <a href="https://www.jancd.cn/" rel="nofollow">Jancd.cn</a></li>
     <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> <a href="mailto:sergeychang@gmail.com">sergeychang@gmail.com</a></li>
 </ul>
